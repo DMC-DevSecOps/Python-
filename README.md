@@ -1,2 +1,2 @@
 # Python-
-All Pyhton Scripts 
+All Python Scripts 
